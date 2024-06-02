@@ -12,20 +12,12 @@ This Python script helps you organize files in a specified directory into folder
 
 ## Usage
 
-### Option 1: Download and Run Locally
+### Download and Run Locally
 
-1. **Download:** Download the executable file (`file_organizer_gui.exe` for Windows, `file_organizer_gui` for macOS and Linux) from the [Releases](https://github.com/yourusername/yourrepository/releases) page.
+1. **Download:** Download the executable file (`file_organizer.exe` for Windows, `file_organizer` for macOS and Linux) from this page.
 2. **Run:** Double-click the executable to launch the File Organizer GUI.
 3. **Input Details:** Specify the directory and define extensions with their corresponding folder names via the GUI.
 4. **Organize Files:** Click the 'Organize Files' button to start the file organization process.
-
-### Option 2: Run Directly from GitHub
-
-1. **Open Link:** Go to the [Releases](https://github.com/yourusername/yourrepository/releases) page of the GitHub repository.
-2. **Download:** Download the latest executable file (`file_organizer_gui.exe` for Windows, `file_organizer_gui` for macOS and Linux) from the assets section.
-3. **Run:** Double-click the downloaded executable to launch the File Organizer GUI.
-4. **Input Details:** Specify the directory and define extensions with their corresponding folder names via the GUI.
-5. **Organize Files:** Click the 'Organize Files' button to start the file organization process.
 
 ## Example
 
