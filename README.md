@@ -14,7 +14,7 @@ This Python script helps you organize files in a specified directory into folder
 
 ### Download and Run Locally
 
-1. **Download:** Download the executable file (`file_organizer.exe` for Windows, `file_organizer` for macOS and Linux) from this page.
+1. **Download:** Download the package file fileorganizer.pkg (`fileorganizer.exe` for Windows, `file_organizer` for macOS and Linux) from this page.
 2. **Run:** Double-click the executable to launch the File Organizer GUI.
 3. **Input Details:** Specify the directory and define extensions with their corresponding folder names via the GUI.
 4. **Organize Files:** Click the 'Organize Files' button to start the file organization process.
